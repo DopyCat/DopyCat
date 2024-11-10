@@ -4,8 +4,7 @@
 <img src="https://avatars.githubusercontent.com/u/181141816?v=4" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Faça uma breve apresentação sua com o seu nome e não esqueça a <strong>sua stack</strong>.<br>
-  Diga o que você está fazendo no momento, se trabalha ou estuda.
+  Olá! Meu nome é Agni Sofia. Tenho 19 anos e sou estudante de <strong>Engenharia de Software</strong> no primeiro período. Sou formada em Técnico em Agrimensura e tenho o Ensino Médio completo, o que me dá uma boa base na área de exatas e facilita meu aprendizado em programação e lógica computacional. 
 </p>
 
 <p align="left">
