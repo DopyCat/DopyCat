@@ -8,11 +8,11 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: **Coloque as linguagens que você desenvolve.**
+  🦄 Linguagens: **HRML, CSS, JavaScript & C**
 </p>
 
 <p align="left">
-  💼 Ferramentas: **Coloque as suas ferramentas de trabalho.**
+  💼 Ferramentas: **Visual Studio Code, Git, GitHub.**
 </p>
 
 <p align="left">
