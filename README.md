@@ -1,7 +1,7 @@
 ## Agni Sofia Gomes Chaves
 
 
-<img src="https://avatars.githubusercontent.com/u/181141816?v=4" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="https://s10.aconvert.com/convert/p3r68-cdx67/a2s40-ipeyd.png" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
   Olá! Meu nome é Agni Sofia. Tenho 19 anos e sou estudante de <strong>Engenharia de Software</strong> no primeiro período. Sou formada em Técnico em Agrimensura e tenho o Ensino Médio completo, o que me dá uma boa base na área de exatas e facilita meu aprendizado em programação e lógica computacional. 
