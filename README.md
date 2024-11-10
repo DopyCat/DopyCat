@@ -8,11 +8,11 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: **HRML, CSS, JavaScript & C**
+  🦄 Linguagens: *HRML, CSS, JavaScript & C*
 </p>
 
 <p align="left">
-  💼 Ferramentas: **Visual Studio Code, Git, GitHub.**
+  💼 Ferramentas: *Visual Studio Code, Git, GitHub.*
 </p>
 
 <p align="left">
