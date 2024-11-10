@@ -8,7 +8,7 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong> HRML, CSS, JavaScript & C; </strong>
+  🦄 Linguagens: <strong> HRML, CSS, JavaScript & C+; </strong>
 </p>
 
 <p align="left">
