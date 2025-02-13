@@ -1,37 +1,44 @@
-## Agni Sofia Gomes Chaves
+<div style="display: flex; align-items: center; justify-content: flex-start;">
+  <img src="https://github.com/user-attachments/assets/05ebda76-09f0-4e84-a60a-fd9cc358af2d" width="250px" alt="Agni" style="margin-left: 1000px;">
+  <h1>OLÁ, SOU A AGNI! 🌸💗</h1>
+</div>
 
+Estudante de **Engenharia de Software** no primeiro período. Com formação técnica em **Agrimensura**, tenho uma forte base em **exatas** e gosto de aprender sobre **programação**, **lógica computacional** e como a tecnologia pode transformar o nosso dia a dia.
 
-<img src="https://s10.aconvert.com/convert/p3r68-cdx67/a2s40-ipeyd.png" min-width="400px" max-width="400px" width="400px" align="right">
+### Tecnologias que estou aprendendo:
 
-<p align="left"> 
-  Olá! Meu nome é Agni Sofia. Tenho 19 anos e sou estudante de <strong>Engenharia de Software</strong> no primeiro período. Sou formada em Técnico em Agrimensura e tenho o Ensino Médio completo, o que me dá uma boa base na área de exatas e facilita meu aprendizado em programação e lógica computacional. 
-</p>
+- **Linguagens**: HTML, CSS, JavaScript, Java, C e C++.
+- **Ferramentas**: Visual Studio Code, Git, GitHub, Maven.
 
-<p align="left">
-  🦄 Linguagens: <strong> HRML, CSS, JavaScript & C+; </strong>
-</p>
+### Vamos nos conectar! 📬
 
-<p align="left">
-  💼 Ferramentas: <strong> Visual Studio Code, Git, GitHub. </strong>
-</p>
+- **E-mail**: [cat.dopy@gmail.com](mailto:cat.dopy@gmail.com)
+- **LinkedIn**: [Ainda não tenho]()
+- **Instagram**: [@dopy.cat](https://www.instagram.com/dopy.cat)
 
-<p align="left">
-  💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
-</p>
+---
 
-<p align="left">
-  <a href="mailto:cat.dopy@gmail.com" title="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" width="100px" height="30px"/></a>
-  
-  <a href="#" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn" width="100px" height="30px"/></a>
-  
-  <a href="https://w.app/3j1JXz" title="WhatsApp">
-  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white" alt="WhatsApp" width="100px" height="30px"/></a>
-  
-  <a href="https://www.instagram.com/dopy.cat" title="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" width="100px" height="30px"/></a>
-  
-  <a href="https://discord.com/channels/@381579281811111939" title="Discord">
-  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank" alt="Discord" width="100px" height="30px"/></a>
-</p>
+## Meus Projetos 💻
+
+### [Calculadora Rosa](https://github.com/DopyCat/calculadora)
+
+Uma calculadora simples e funcional, feita com HTML, CSS e JavaScript.
+
+### [Portfolio Pessoal](https://github.com/DopyCat/portfolio)
+
+Meu portfólio onde compartilho meus projetos e minha jornada na área de programação.
+
+---
+
+## Estatísticas GitHub 📊
+
+<div style="display: flex; gap: 20px; justify-content: space-between;">
+  <img src="https://github-readme-stats.vercel.app/api?username=DopyCat&show_icons=true&theme=radical&hide_title=true" alt="Estatísticas do GitHub" style="width: 29%;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DopyCat&layout=compact&theme=radical" alt="Linguagens mais usadas" style="width: 40%;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DopyCat&theme=radical" alt="Gráfico de Contribuições" style="width: 27%;">
+</div>
+
+---
+
+**Estou sempre em busca de novos aprendizados e projetos desafiadores!** 🚀
+
