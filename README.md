@@ -1,6 +1,6 @@
 <div style="display: flex; align-items: center; justify-content: flex-start;">
   <img src="https://github.com/user-attachments/assets/05ebda76-09f0-4e84-a60a-fd9cc358af2d" width="250px" alt="Agni" style="margin-left: 1000px;">
-  <h1>OLÁ, SOU A AGNI! 🌸💗</h1>
+  <h1>OLÁ, ME CHAMO AGNI! </h1>
 </div>
 
 Estudante de **Engenharia de Software** no primeiro período. Com formação técnica em **Agrimensura**, tenho uma forte base em **exatas** e gosto de aprender sobre **programação**, **lógica computacional** e como a tecnologia pode transformar o nosso dia a dia.
