@@ -3,32 +3,14 @@
   <h1>OLÁ, ME CHAMO AGNI! </h1>
 </div>
 
-Estudante de **Engenharia de Software** no primeiro período. Com formação técnica em **Agrimensura**, tenho uma forte base em **exatas** e gosto de aprender sobre **programação**, **lógica computacional** e como a tecnologia pode transformar o nosso dia a dia.
+Estudante de **Engenharia de Software** com formação técnica em **Agrimensura**! Tenho uma forte base em **exatas** e gosto de aprender sobre **programação**, **lógica computacional** e como a tecnologia pode transformar o nosso dia a dia.
+
+---
 
 ### Tecnologias que estou aprendendo:
 
 - **Linguagens**: HTML, CSS, JavaScript, Java, C e C++.
 - **Ferramentas**: Visual Studio Code, Git, GitHub, Maven.
-
-### Vamos nos conectar! 📬
-
-- **E-mail**: [cat.dopy@gmail.com](mailto:cat.dopy@gmail.com)
-- **LinkedIn**: [Ainda não tenho]()
-- **Instagram**: [@dopy.cat](https://www.instagram.com/dopy.cat)
-
----
-
-## Meus Projetos 💻
-
-### [Calculadora Rosa](https://github.com/DopyCat/calculadora)
-
-Uma calculadora simples e funcional, feita com HTML, CSS e JavaScript.
-
-### [Portfolio Pessoal](https://github.com/DopyCat/portfolio)
-
-Meu portfólio onde compartilho meus projetos e minha jornada na área de programação.
-
----
 
 ## Estatísticas GitHub 📊
 
