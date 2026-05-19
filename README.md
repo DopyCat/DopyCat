@@ -40,12 +40,13 @@
 <td width="55%">
 
 <h1>Know About Me</h1>
+
 <h3>Hey there! I'm Agni 👋</h3>
 
-I’m a creative developer who believes technology and creativity go hand in hand.  
+<p>I’m a creative developer who believes technology and creativity go hand in hand.  
 My main focus is Front-End Development, where I build engaging interfaces and memorable experiences.  
 Driven by innovation and out-of-the-box ideas, I prefer creative and meaningful solutions over predictable paths.  
-Beyond development, I’m involved in art and music projects and believe learning has no limits.
+Beyond development, I’m involved in art and music projects and believe learning has no limits.</p>
 
 </td>
 </tr>
