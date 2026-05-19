@@ -1,9 +1,32 @@
-<div style="display: flex; align-items: center; justify-content: flex-start;">
-   <a href="https://dopycat.github.io/cardXP/" target="_blank">
-  <img width="1536" height="864" alt="Image" src="https://github.com/user-attachments/assets/b23b8d60-ce02-48d5-a440-f32775e67cfc" />
-  </a>
-  <img src="https://github.com/user-attachments/assets/05ebda76-09f0-4e84-a60a-fd9cc358af2d" width="250px" alt="Agni" style="margin-left: 1000px;">
-  <h1>OLÁ, ME CHAMO AGNI! </h1>
+<table align="center">
+<tr>
+<td align="center">
+
+<a href="https://dopycat.github.io/cardXP/" target="_blank">
+  <img 
+    src="https://github.com/user-attachments/assets/b23b8d60-ce02-48d5-a440-f32775e67cfc"
+    width="100%"
+    alt="Projeto CardXP">
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+💻 Clique no GIF para ser redirecionado ao projeto
+
+</td>
+</tr>
+</table>
+
+<div style="display: flex; align-items: center; gap: 20px;">
+  <img src="https://github.com/user-attachments/assets/05ebda76-09f0-4e84-a60a-fd9cc358af2d" 
+       width="250px" 
+       alt="Agni">
+
+  <h1>OLÁ, ME CHAMO AGNI!</h1>
 </div>
 
 Estudante de **Engenharia de Software** com formação técnica em **Agrimensura**! Tenho uma forte base em **exatas** e gosto de aprender sobre **programação**, **lógica computacional** e como a tecnologia pode transformar o nosso dia a dia.
