@@ -1,5 +1,7 @@
 <div style="display: flex; align-items: center; justify-content: flex-start;">
+   <a href="https://dopycat.github.io/cardXP/" target="_blank">
   <img width="1536" height="864" alt="Image" src="https://github.com/user-attachments/assets/b23b8d60-ce02-48d5-a440-f32775e67cfc" />
+  </a>
   <img src="https://github.com/user-attachments/assets/05ebda76-09f0-4e84-a60a-fd9cc358af2d" width="250px" alt="Agni" style="margin-left: 1000px;">
   <h1>OLÁ, ME CHAMO AGNI! </h1>
 </div>
