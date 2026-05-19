@@ -21,6 +21,7 @@
   </tr>
 </table>
 
+---
 
 <!-- ========================= -->
 <!-- SOBRE MIM (IMAGEM + TEXTO) -->
@@ -56,12 +57,9 @@ Beyond development, I’m involved in art and music projects and believe learnin
 
 
 <!-- ========================= -->
-<!-- APRESENTAÇÃO / FOTO + TÍTULO -->
+<!-- CONTACT ME -->
 <!-- ========================= -->
 
-<div style="display: flex; align-items: center; gap: 20px;">
-
-  
 
 <div align="center">
   <img 
