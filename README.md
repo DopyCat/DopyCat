@@ -21,7 +21,7 @@
 </tr>
 </table>
 
-<img width="700" height="700" alt="Image" src="https://github.com/user-attachments/assets/cd7a114a-709d-42a0-916e-18fb25bd5bf8" />
+<img width="500" height="500" alt="Image" src="https://github.com/user-attachments/assets/1f35ddad-5deb-4e56-a83b-4e8849299ae0" />
 
 <div style="display: flex; align-items: center; gap: 20px;">
   <img src="https://github.com/user-attachments/assets/05ebda76-09f0-4e84-a60a-fd9cc358af2d" 
