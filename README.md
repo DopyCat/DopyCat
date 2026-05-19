@@ -61,14 +61,13 @@ Beyond development, I’m involved in art and music projects and believe learnin
 
 <div style="display: flex; align-items: center; gap: 20px;">
 
-  <img 
-    src="https://github.com/user-attachments/assets/05ebda76-09f0-4e84-a60a-fd9cc358af2d" 
-    width="250px" 
-    alt="Agni">
-
-</div>
+  
 
 <div align="center">
+  <img 
+    src="https://github.com/user-attachments/assets/05ebda76-09f0-4e84-a60a-fd9cc358af2d" 
+    width="230px" 
+    alt="Agni">
 <table>
 <tr>
  <td align="center" colspan="7"></td>
