@@ -30,7 +30,7 @@
   
   <img 
     align="left" 
-    width="300" 
+    width="400" 
     src="https://github.com/user-attachments/assets/39c481aa-85d9-4412-81d2-2d0706a22492" 
     alt="Sobre mim">
     <h1> Know About Me</h1>
