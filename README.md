@@ -29,7 +29,7 @@
   <h1>OLÁ, ME CHAMO AGNI!</h1>
 </div>
 
-Estudante de **Engenharia de Software** com formação técnica em **Agrimensura**! Tenho uma forte base em **exatas** e gosto de aprender sobre **programação**, **lógica computacional** e como a tecnologia pode transformar o nosso dia a dia.
+Sou uma pessoa **criativa** e apaixonada por **transformar ideias** em algo visual e funcional. Gosto de **inovar**, explorar novas possibilidades e criar **projetos únicos**. Tenho grande interesse em HTML e CSS, especialmente na construção de interfaces, estilos e experiências visuais. Estou sempre aprendendo e evoluindo, e apesar do meu foco no front-end, acredito que conhecimento não tem limite e o back-end também faz parte do caminho que quero explorar.
 
 ---
 
