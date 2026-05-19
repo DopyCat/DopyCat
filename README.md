@@ -33,10 +33,11 @@
     width="500" 
     src="https://github.com/user-attachments/assets/39c481aa-85d9-4412-81d2-2d0706a22492" 
     alt="Sobre mim">
-# Know About Me
- <h3> Hey there! I'm Agni 👋</h3>
+    <h1> Know About Me</h1>
+    <h3> Hey there! I'm Agni 👋</h3>
  
-I’m a creative developer who believes technology and creativity go hand in hand. I enjoy transforming ideas into visual and functional experiences. My main focus is Front-End Development, where i find space to build engaging interfaces and memorable experiences. I’m driven by innovation and out-of-the-box ideas, always preferring creative and meaningful solutions over predictable paths. Beyond development, I’m also involved in creative projects related to art and music, and I believe learning has no limits. That’s why I’m interested in exploring back-end development and continuing to grow as a versatile professional in constant evolution.
+I’m a creative developer who believes technology and creativity go hand in hand. My main focus is Front-End Development, where I build engaging interfaces and memorable experiences. Driven by innovation and out-of-the-box ideas, I prefer creative and meaningful solutions over predictable paths. Beyond development, I’m involved in art and music projects and believe learning has no limits, always exploring new skills and growing as a versatile professional.
+
 
 
   <br clear="left" />
