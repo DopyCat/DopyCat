@@ -26,22 +26,30 @@
 <!-- SOBRE MIM (IMAGEM + TEXTO) -->
 <!-- ========================= -->
 
-<div style="display: flex; justify-content: space-around; align-items: center;">
-  
-  <img 
-    align="left" 
-    width="400" 
-    src="https://github.com/user-attachments/assets/39c481aa-85d9-4412-81d2-2d0706a22492" 
-    alt="Sobre mim">
-    <h1> Know About Me</h1>
-    <h3> Hey there! I'm Agni 👋</h3>
- 
-I’m a creative developer who believes technology and creativity go hand in hand. My main focus is Front-End Development, where I build engaging interfaces and memorable experiences. Driven by innovation and out-of-the-box ideas, I prefer creative and meaningful solutions over predictable paths. Beyond development, I’m involved in art and music projects and believe learning has no limits, always exploring new skills and growing as a versatile professional.
+<table>
+<tr>
+<td width="45%">
 
- <br clear="left" />
- 
+<img 
+  src="https://github.com/user-attachments/assets/39c481aa-85d9-4412-81d2-2d0706a22492"
+  width="100%"
+  alt="Sobre mim">
 
-</div>
+</td>
+
+<td width="55%">
+
+<h1>Know About Me</h1>
+<h3>Hey there! I'm Agni 👋</h3>
+
+I’m a creative developer who believes technology and creativity go hand in hand.  
+My main focus is Front-End Development, where I build engaging interfaces and memorable experiences.  
+Driven by innovation and out-of-the-box ideas, I prefer creative and meaningful solutions over predictable paths.  
+Beyond development, I’m involved in art and music projects and believe learning has no limits.
+
+</td>
+</tr>
+</table>
 
 ---
 
