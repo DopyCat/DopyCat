@@ -23,7 +23,7 @@
 
 
 <div style="display: flex; justify-content: space-around; align-items: center;">
-  <img align="left" width="600" src="https://github.com/user-attachments/assets/1f35ddad-5deb-4e56-a83b-4e8849299ae0" alt="Sobre mim">
+  <img align="left" width="400" src="https://github.com/user-attachments/assets/1f35ddad-5deb-4e56-a83b-4e8849299ae0" alt="Sobre mim">
  
 
   Sou uma pessoa **criativa** e apaixonada por **transformar ideias** em algo visual e funcional. Gosto de **inovar**, explorar novas possibilidades e criar **projetos únicos**. Tenho grande interesse em HTML e CSS, especialmente na construção de interfaces, estilos e experiências visuais. Estou sempre aprendendo e evoluindo, e apesar do meu foco no front-end, acredito que conhecimento não tem limite e o back-end também faz parte do caminho que quero explorar.
