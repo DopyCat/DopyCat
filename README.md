@@ -38,10 +38,12 @@
  
 I’m a creative developer who believes technology and creativity go hand in hand. My main focus is Front-End Development, where I build engaging interfaces and memorable experiences. Driven by innovation and out-of-the-box ideas, I prefer creative and meaningful solutions over predictable paths. Beyond development, I’m involved in art and music projects and believe learning has no limits, always exploring new skills and growing as a versatile professional.
 
-
-  <br clear="left" />
+ <br clear="left" />
+ 
 
 </div>
+
+---
 
 
 <!-- ========================= -->
@@ -64,7 +66,7 @@ I’m a creative developer who believes technology and creativity go hand in han
 <!-- TECNOLOGIAS -->
 <!-- ========================= -->
 
----
+
 
 ### Tecnologias que estou aprendendo:
 
