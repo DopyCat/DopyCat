@@ -106,19 +106,19 @@ Beyond development, I’m involved in art and music projects and believe learnin
 <tr>
 
 <td>
-  <a href="https://aramuni.dev/">
+  <a href="">
     <img src="https://joaopauloaramuni.github.io/image/portfolio3.png?raw=true" width="50px" height="50px"/>
   </a>
 </td>
 
 <td>
-  <a href="https://github.com/joaopauloaramuni" target="_blank">
+  <a href="https://github.com/dopycat" target="_blank">
     <img src="https://joaopauloaramuni.github.io/image/github5.png?raw=true" width="50px" height="50px"/>
   </a>
 </td>
 
 <td>
-  <a href="mailto:joaopauloaramuni@gmail.com" target="_blank">
+  <a href="mailto:cat.dopy@gmail.com" target="_blank">
     <img src="https://joaopauloaramuni.github.io/image/gmail3.png?raw=true" width="50px" height="50px"/>
   </a>
 </td>
