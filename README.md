@@ -124,7 +124,7 @@ Beyond development, I’m involved in art and music projects and believe learnin
 </td>
 
 <td>
-  <a href="https://wa.me/5531980402103" target="_blank">
+  <a href="https://wa.me/qr/ASRSHSDYMGQAD1" target="_blank">
     <img src="https://joaopauloaramuni.github.io/image/wpp2.png?raw=true" width="50px" height="50px"/>
   </a>
 </td>
