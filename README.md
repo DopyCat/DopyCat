@@ -57,10 +57,8 @@ Beyond development, I’m involved in art and music projects and believe learnin
 <!-- ========================= -->
 <!-- TECNOLOGIAS -->
 <!-- ========================= -->
-
 <div>
-  <img align="right" src="https://github.com/user-attachments/assets/ab5a4f7d-e038-4cb5-a933-c2d0c5463c78" width="440" alt="gato rodando">
-<br>
+  <img align="right" src="https://github.com/user-attachments/assets/ab5a4f7d-e038-4cb5-a933-c2d0c5463c78" width="370" alt="gato rodando">
   <h3> Tools I'm Learning to Use: </h1>
     
  **꩜ Technologies and Languages**: 
