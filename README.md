@@ -54,6 +54,21 @@ Beyond development, I’m involved in art and music projects and believe learnin
 </table>
 
 ---
+<!-- ========================= -->
+<!-- TECNOLOGIAS -->
+<!-- ========================= -->
+
+<div>
+  <img align="right" src="https://github.com/user-attachments/assets/ab5a4f7d-e038-4cb5-a933-c2d0c5463c78" width="200" alt="gato rodando">
+<br>
+  <h3> Tools I'm Learning to Use </h1>
+    
+    
+- **Linguagens**: HTML, CSS, JavaScript, Java, C e C++.
+- **Ferramentas**: Visual Studio Code, Git, GitHub, Maven.
+ 
+<br clear="right"/>
+</div>
 
 
 <!-- ========================= -->
