@@ -79,6 +79,9 @@ Beyond development, I’m involved in art and music projects and believe learnin
 
 </div>
 
+<div align="center">
+  
+  [![DopyCat's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dopycat&bg_color=0d1117&color=c535d0&line=d1056c&point=d1056c&area=true&area_color=d1056c&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!-- ========================= -->
 <!-- CONTACT ME -->
