@@ -59,14 +59,22 @@ Beyond development, I’m involved in art and music projects and believe learnin
 <!-- ========================= -->
 
 <div>
-  <img align="right" src="https://github.com/user-attachments/assets/ab5a4f7d-e038-4cb5-a933-c2d0c5463c78" width="200" alt="gato rodando">
+  <img align="right" src="https://github.com/user-attachments/assets/ab5a4f7d-e038-4cb5-a933-c2d0c5463c78" width="440" alt="gato rodando">
 <br>
-  <h3> Tools I'm Learning to Use </h1>
+  <h3> Tools I'm Learning to Use: </h1>
     
-    
-- **Linguagens**: HTML, CSS, JavaScript, Java, C e C++.
-- **Ferramentas**: Visual Studio Code, Git, GitHub, Maven.
- 
+ **꩜ Technologies and Languages**: 
+  
+ [![My Skills](https://skillicons.dev/icons?i=html,css,js,c,cpp,java)](https://skillicons.dev)
+
+**꩜ Frameworks and Libraries**: 
+
+[![My Skills](https://skillicons.dev/icons?i=react,nodejs,vue,spring,mysql)](https://skillicons.dev)
+
+**꩜ Development Tool**: 
+
+[![My Skills](https://skillicons.dev/icons?i=git,github,figma,vscode)](https://skillicons.dev)
+
 <br clear="right"/>
 </div>
 
