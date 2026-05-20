@@ -149,39 +149,16 @@ Beyond development, I’m involved in art and music projects and believe learnin
 </table>
 </div>
 
+ <br>
 
-
-<!-- ========================= -->
-<!-- ESTATÍSTICAS GITHUB -->
-<!-- ========================= -->
-
-## Estatísticas GitHub 📊
-
-<div style="display: flex; gap: 20px; justify-content: space-between;">
-
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=DopyCat&show_icons=true&theme=radical&hide_title=true" 
-    alt="Estatísticas do GitHub" 
-    style="width: 29%;">
-
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=DopyCat&layout=compact&theme=radical" 
-    alt="Linguagens mais usadas" 
-    style="width: 40%;">
-
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=DopyCat&theme=radical" 
-    alt="Gráfico de Contribuições" 
-    style="width: 27%;">
-
-</div>
-
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eduardavieira-dev/eduardavieira-dev/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eduardavieira-dev/eduardavieira-dev/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/eduardavieira-dev/eduardavieira-dev/output/pacman-contribution-graph.svg">
+</picture>
 <!-- ========================= -->
 <!-- FRASE FINAL -->
 <!-- ========================= -->
 
----
-
-**Estou sempre em busca de novos aprendizados e projetos desafiadores!** 🚀
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:e61c9b,100:10002B"/>
 
