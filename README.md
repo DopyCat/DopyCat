@@ -74,14 +74,19 @@ Beyond development, I’m involved in art and music projects and believe learnin
 
 [![My Skills](https://skillicons.dev/icons?i=git,github,figma,vscode)](https://skillicons.dev)
 
----
+<h1> GitHub Statistics </h1>
 <br clear="right"/>
 
 </div>
 
+<!-- ========================= -->
+<!-- ESTATÍSTICAS GITHUB -->
+<!-- ========================= -->
+
 <div align="center">
   
   [![DopyCat's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dopycat&bg_color=0d1117&color=c535d0&line=d1056c&point=d1056c&area=true&area_color=d1056c&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  </div>
 
 <!-- ========================= -->
 <!-- CONTACT ME -->
