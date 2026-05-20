@@ -130,13 +130,13 @@ Beyond development, I’m involved in art and music projects and believe learnin
 </td>
 
 <td>
-  <a href="https://www.instagram.com/joaopauloaramuni/" target="_blank">
+  <a href="https://www.instagram.com/dopy.cat/" target="_blank">
     <img src="https://joaopauloaramuni.github.io/image/insta2.png?raw=true" width="50px" height="50px"/>
   </a>
 </td>
 
 <td>
-  <a href="https://discordapp.com/users/959151773728251914" target="_blank">
+  <a href="https://discord.gg/ACuQH3CX" target="_blank">
     <img src="https://joaopauloaramuni.github.io/image/discord2.png?raw=true" width="50px" height="50px"/>
   </a>
 </td>
