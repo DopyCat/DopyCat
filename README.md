@@ -40,7 +40,7 @@
 
 <td width="55%">
 
-<h1>Know About Me</h1>
+<h1> 「 ✦ Know About Me ✦ 」</h1>
 
 <h3>Hey there! I'm Agni 👋</h3>
 
