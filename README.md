@@ -74,7 +74,7 @@ Beyond development, I’m involved in art and music projects and believe learnin
 
 [![My Skills](https://skillicons.dev/icons?i=git,github,figma,vscode)](https://skillicons.dev)
 
-<h1> GitHub Statistics </h1>
+<h2> GitHub Statistics </h2>
 <br clear="right"/>
 
 </div>
