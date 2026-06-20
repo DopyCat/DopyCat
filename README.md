@@ -72,7 +72,7 @@ Beyond development, I’m involved in art and music projects and believe learnin
 
 **꩜ Development Tool**: 
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,figma,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,figma,vscode,vercel)](https://skillicons.dev)
 
 <h2> GitHub Statistics </h2>
 <br clear="right"/>
