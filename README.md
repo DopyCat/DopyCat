@@ -5,7 +5,7 @@
 <table align="center">
   <tr>
     <td align="center">
-      <a href="https://dopycat.github.io/cardXP/" target="_blank">
+      <a href="https://card-xp-seven.vercel.app" target="_blank">
         <img 
           src="https://github.com/user-attachments/assets/b23b8d60-ce02-48d5-a440-f32775e67cfc"
           width="100%"
